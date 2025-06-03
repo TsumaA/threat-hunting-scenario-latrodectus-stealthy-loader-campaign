@@ -1,6 +1,6 @@
-# Latrodectus Stealthy Loader Scenario Creation
-
 <img width="200" src="https://img.icons8.com/color/96/000000/spider.png" alt="Latrodectus Spider Malware"/>
+
+# Latrodectus Stealthy Loader Scenario Creation
 
 ## Overview
 
