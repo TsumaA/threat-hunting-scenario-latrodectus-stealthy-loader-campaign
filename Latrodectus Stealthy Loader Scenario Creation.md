@@ -1,5 +1,6 @@
-<img width="200" src="https://img.icons8.com/color/96/000000/spider.png" alt="Latrodectus Spider Malware"/>
 
+
+![spder](https://github.com/user-attachments/assets/e4e28e10-809f-44db-b5da-66d1453831d0)
 # Latrodectus Stealthy Loader Scenario Creation
 
 ## Overview
